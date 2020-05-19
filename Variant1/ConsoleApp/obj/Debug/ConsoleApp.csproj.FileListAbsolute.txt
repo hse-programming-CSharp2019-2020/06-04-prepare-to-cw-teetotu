@@ -1,0 +1,9 @@
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\ConsoleApp\bin\Debug\CWLibrary.dll
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\ConsoleApp\bin\Debug\CWLibrary.pdb
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\ConsoleApp\obj\Debug\ConsoleApp.pdb

@@ -1,0 +1,5 @@
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\CWLibrary\bin\Debug\CWLibrary.dll
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\CWLibrary\bin\Debug\CWLibrary.pdb
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\CWLibrary\obj\Debug\CWLibrary.csprojAssemblyReference.cache
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\CWLibrary\obj\Debug\CWLibrary.dll
+C:\Users\sdila\source\repos\RiderProjects\06-04-prepare-to-cw-teetotu\Variant1\CWLibrary\obj\Debug\CWLibrary.pdb
